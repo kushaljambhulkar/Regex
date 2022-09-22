@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;packege.regex.Regex&apos; to &apos;RegexFirstName&apos;&#x0D;&#x0A;- Original project: &apos;Rejex&apos;&#x0D;&#x0A;- Original element: &apos;packege.regex.Regex&apos;&#x0D;&#x0A;- Renamed element: &apos;packege.regex.RegexFirstName&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Regex&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;packege.regex{Regex.java[Regex" matchStrategy="1" name="RegexFirstName" qualified="false" references="true" similarDeclarations="false" stamp="1663848123613" textual="false" version="1.0"/>
+</session>
